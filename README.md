@@ -51,7 +51,7 @@ Watch for the "Copied!" confirmation message.
 
 🖥️ Live Demo
 
-[Live Demo Link]
+https://password-generator-ruddy-seven.vercel.app/
 
 📌 How to Run Locally
 
