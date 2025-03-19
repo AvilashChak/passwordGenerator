@@ -55,7 +55,7 @@ Watch for the "Copied!" confirmation message.
 
 📌 How to Run Locally
 
-git clone https://github.com/AvilashChak/password-generator.git
+git clone https://github.com/AvilashChak/passwordGenerator.git
 cd password-generator
 npm install
 npm start
